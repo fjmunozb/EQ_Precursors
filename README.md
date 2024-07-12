@@ -1,11 +1,13 @@
 # EQ_Precursors
-Python codes to calculate dv/v using the stretching method. 
+Python codes to calculate dv/v and waveform coherence using the stretching method. 
 
 This repository contains the python codes to reproduce the results of the paper
-"Days before the strike: precursory waveform decoherence1
-preceding major strike-slip earthquakes"
+"Days before the strike: precursory waveform decoherence
+precedes major strike-slip earthquakes"
 
 Instructions
 Install the noisepy enviroment using environment_noisepy.yml
 Copy and paste the functions stacking_module.py and dvv_module.py by Jiang and Denolle 2020. 
-Run the jupyther notebooks
+Run the jupyther notebooks.
+
+Find also a MSNoise python envionment (MSNoise.yml) to use the MSNoise database and STACKS.
