@@ -17,5 +17,5 @@ Run the jupyther notebooks.
 * RIDGECREST_plot_BY_FILTER.ipynb, TURKEY_plot_BY_FILTER.ipynb, and AEGEAN_plot_BY_FILTER.ipynb #only plot dv/v and WF coherence by filter and show plots of the by-component weighted dv/v and WF coherence.
 
 
-Download the complete directory that also contains earthquake data and figures necesary to visualize the plots.
+Download the directory that also contains earthquake data and figures necesary to visualize the plots.
 
