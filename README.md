@@ -9,7 +9,7 @@ Instructions
 
 Download the data from Dryad.org DOI: 10.5061/dryad.n02v6wx5t
 
-Download the entire EQ_Precursors directory containing the earthquake catalogs and figures necessary to visualize the plots.
+Download the entire EQ_Precursors directory containing Jupyter notebooks, earthquake catalogs, and figures necessary to reproduce our results.
 
 Install the noisepy environment using environment_noisepy.yml
 Download the functions stacking_module.py and dvv_module.py by Jiang and Denolle (2020) Ambient-Noise Seismology Package NoisePy https://github.com/noisepy/NoisePy. 
